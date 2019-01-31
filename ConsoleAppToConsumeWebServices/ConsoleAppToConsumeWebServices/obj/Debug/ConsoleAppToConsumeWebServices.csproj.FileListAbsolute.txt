@@ -1,0 +1,6 @@
+C:\Users\devanshu.a\Documents\Visual Studio 2017\Projects\ConsoleAppToConsumeWebServices\ConsoleAppToConsumeWebServices\obj\Debug\ConsoleAppToConsumeWebServices.csprojResolveAssemblyReference.cache
+C:\Users\devanshu.a\Documents\Visual Studio 2017\Projects\ConsoleAppToConsumeWebServices\ConsoleAppToConsumeWebServices\bin\Debug\ConsoleAppToConsumeWebServices.exe.config
+C:\Users\devanshu.a\Documents\Visual Studio 2017\Projects\ConsoleAppToConsumeWebServices\ConsoleAppToConsumeWebServices\bin\Debug\ConsoleAppToConsumeWebServices.exe
+C:\Users\devanshu.a\Documents\Visual Studio 2017\Projects\ConsoleAppToConsumeWebServices\ConsoleAppToConsumeWebServices\bin\Debug\ConsoleAppToConsumeWebServices.pdb
+C:\Users\devanshu.a\Documents\Visual Studio 2017\Projects\ConsoleAppToConsumeWebServices\ConsoleAppToConsumeWebServices\obj\Debug\ConsoleAppToConsumeWebServices.exe
+C:\Users\devanshu.a\Documents\Visual Studio 2017\Projects\ConsoleAppToConsumeWebServices\ConsoleAppToConsumeWebServices\obj\Debug\ConsoleAppToConsumeWebServices.pdb
